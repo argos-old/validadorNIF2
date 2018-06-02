@@ -1,0 +1,18 @@
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador NIF 2.x.vbprojResolveAssemblyReference.cache
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador_NIF_2.x.Form1.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador_NIF_2.x.Form2.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador_NIF_2.x.Form3.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador_NIF_2.x.Form4.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador_NIF_2.x.Resources.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador NIF 2.x.vbproj.GenerateResource.Cache
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Release\Validador NIF.exe
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Release\Validador NIF.pdb
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Release\Validador NIF.xml
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Release\ComponentFactory.Krypton.Design.dll
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Release\ComponentFactory.Krypton.Navigator.dll
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Release\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Release\ComponentFactory.Krypton.Workspace.dll
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador NIF.exe
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador NIF.xml
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Release\Validador NIF.pdb

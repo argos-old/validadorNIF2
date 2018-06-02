@@ -1,0 +1,51 @@
+d:\mis documentos\visual studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF 2.x.vbprojResolveAssemblyReference.cache
+d:\mis documentos\visual studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Resources.resources
+d:\mis documentos\visual studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF 2.x.vbproj.GenerateResource.Cache
+d:\mis documentos\visual studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form1.resources
+D:\Mis Documentos\Visual Studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form2.resources
+D:\Mis Documentos\Visual Studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form3.resources
+D:\Mis Documentos\Visual Studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form4.resources
+D:\Mis Documentos\Visual Studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\Validador NIF.exe
+D:\Mis Documentos\Visual Studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\Validador NIF.pdb
+D:\Mis Documentos\Visual Studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\Validador NIF.xml
+D:\Mis Documentos\Visual Studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.exe
+D:\Mis Documentos\Visual Studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.xml
+D:\Mis Documentos\Visual Studio 2013\Projects\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.pdb
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.exe
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.xml
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.pdb
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\Validador NIF.exe
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\Validador NIF.pdb
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\Validador NIF.xml
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF 2.x.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form1.resources
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form2.resources
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form3.resources
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form4.resources
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Resources.resources
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF 2.x.vbproj.GenerateResource.Cache
+D:\Dropbox\Proyectos Dropbox Visual Studio\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Iván\OneDrive\Proyectos OneDrive VS\Projects 2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.exe
+C:\Users\Iván\OneDrive\Proyectos OneDrive VS\Projects 2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.xml
+C:\Users\Iván\OneDrive\Proyectos OneDrive VS\Projects 2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.pdb
+D:\OneDrive\Proyectos OneDrive VS\Projects 2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.exe
+D:\OneDrive\Proyectos OneDrive VS\Projects 2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.xml
+D:\OneDrive\Proyectos OneDrive VS\Projects 2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.pdb
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.exe
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.xml
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF.pdb
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\Validador NIF.exe
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\Validador NIF.pdb
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\Validador NIF.xml
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF 2.x.vbprojResolveAssemblyReference.cache
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form1.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form2.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form3.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Form4.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador_NIF_2.x.Resources.resources
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\obj\Debug\Validador NIF 2.x.vbproj.GenerateResource.Cache
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\ivanr\OneDrive\Proyectos\VS2013\Validador NIF 2.x\Validador NIF 2.x\bin\Debug\ComponentFactory.Krypton.Workspace.dll
